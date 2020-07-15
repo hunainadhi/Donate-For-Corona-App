@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224005199048",
+    "firebase_url": "https://donate-for-corona.firebaseio.com",
+    "project_id": "donate-for-corona",
+    "storage_bucket": "donate-for-corona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224005199048:android:7ed68ea99767269ed401fd",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224005199048-fmj0tsp068kas0k4ockhfnedntj0v7rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackathon",
+            "certificate_hash": "af265d1d19925c25c8bc5d906a595c7c692ce402"
+          }
+        },
+        {
+          "client_id": "224005199048-qrshlponlk3vohn5563gkh363tmfa1sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAquIhtwzFKN9A14jy4Kkz29E7cJ_7ZSDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224005199048-qrshlponlk3vohn5563gkh363tmfa1sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
